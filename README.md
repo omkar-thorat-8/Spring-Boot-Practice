@@ -5,16 +5,16 @@ This repository is a collection of practical Spring Boot applications and exampl
 It covers core Spring Boot features, RESTful API development, integration with relational databases, and common backend functionalities. Each project is designed to help understand how Spring Boot simplifies Java application development.
 <br><br>
 
-****🚀 Topics Covered:
+🚀 Topics Covered: <br>
 
-✅ Spring Boot Basics
-✅ REST API with Spring Web
-✅ Spring Data JPA and Hibernate
-✅ CRUD Operations
-✅ Database Connectivity (MySQL)
-✅ Spring Data Repository
-✅ Project Structure & Best Practices
-✅ Application Properties & Configuration
-✅ Error Handling & Validation
+✅ Spring Boot Basics <br>
+✅ REST API with Spring Web <br>
+✅ Spring Data JPA and Hibernate <br>
+✅ CRUD Operations<br>
+✅ Database Connectivity (MySQL) <br>
+✅ Spring Data Repository <br>
+✅ Project Structure & Best Practices <br>
+✅ Application Properties & Configuration <br>
+✅ Error Handling & Validation <br>
 
 <br><br>
