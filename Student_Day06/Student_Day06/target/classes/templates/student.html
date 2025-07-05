@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>hello</title>
+</head>
+<body>
+		<h1>Student</h1>
+    <ul>
+        <li th:each="s : ${stud}">
+            <span th:text="${s.id}">ID</span>
+            <span th:text="${s.name}">Name</span>
+        </li>
+    </ul>
+</body>
+</html>
